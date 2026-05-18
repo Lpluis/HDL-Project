@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Tue Oct  7 12:31:04 2025
+# Process ID         : 33968
+# Current directory  : C:/Users/luisl/OneDrive - Texas State University/FinalProject
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent33044 C:\Users\luisl\OneDrive - Texas State University\FinalProject\FinalProject.xpr
+# Log file           : C:/Users/luisl/OneDrive - Texas State University/FinalProject/vivado.log
+# Journal file       : C:/Users/luisl/OneDrive - Texas State University/FinalProject\vivado.jou
+# Running On         : schoolLaptop
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : AMD Ryzen 7 5700U with Radeon Graphics         
+# CPU Frequency      : 1797 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 16
+# Host memory        : 20813 MB
+# Swap memory        : 4081 MB
+# Total Virtual      : 24894 MB
+# Available Virtual  : 5033 MB
+#-----------------------------------------------------------
+start_gui
